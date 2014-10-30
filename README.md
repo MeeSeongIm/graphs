@@ -1,4 +1,4 @@
 graphs
 ======
 
-Graph algorithms.
+Graph algorithms, including Dijkstra's algorithm. 

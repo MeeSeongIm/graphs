@@ -1,4 +1,4 @@
 graphs
 ======
 
-Graphs algorithms.
+Graph algorithms.

@@ -1,7 +1,7 @@
 
 
 # Dijkstra's algorithm on a weighted graph (the edges are weighted).
-# Find the least cost path from the initial node to the final node.
+# Find the least cost path from the initial node to another (final) node.
 
 nodes = ('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I')
 distances = {
